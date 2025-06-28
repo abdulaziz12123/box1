@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.small{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    border-radius: 10px;
+    display: flex;
+    gap: 5px;
+}
+.small2{
+    gap: 20px;
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    border-radius: 10px;
+}
+.small3{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    border-radius: 10px;
+    display: flex;
+    gap: 5px;
+}
+.small4{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    border-radius: 10px;
+    display: flex;
+    gap: 7px;
+}
+.small5{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    border-radius: 10px;
+    display: flex;
+    gap: 7px;
+    justify-content:end ;
+}
+.small6{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    border-radius: 10px;
+    display: flex;
+    gap: 7px;
+    justify-content: center;
+}
+.small7{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    border-radius: 10px;
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+
+}
+.small8{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    border-radius: 10px;
+    display: flex;
+    justify-content: baseline;
+    align-items: end;
+    gap: 20px;
+}
+.small9{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.small10{
+    width: 240px;
+    height: 240px;
+    background-color: #995DB5;
+    border-radius: 10px;
+    gap: 20px;
+    display: flex;
+    
+}
+.box{
+    margin-top: 30px;
+    height: 30vh;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.box1{
+    height: 30vh;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.box2{
+    height: 30vh;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.a1{
+    width: 50px;
+    height: 50px;
+    background-color: #F7941F;
+    border-radius: 8px;
+    border: 1px solid;
+}
